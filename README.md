@@ -5,7 +5,6 @@
     <meta charset="UTF-8">
   </head>
   <body>
-    <h1>LinkedIn Job Scraper</h1>
     <p>This script enables users to automate the process of scraping job listings from LinkedIn by running a bot. The bot opens a new Chrome tab, logs in to LinkedIn using the user's credentials (which are stored in a .txt file), and navigates to the "Jobs" section using filters specified by the user in the code.</p>
     <p>The bot then reads through each job application on the page, extracting relevant information such as the job title, company name, location, posting date, and work time. This information is saved in a CSV file that can be easily accessed by the user.</p>
     <h2>Requirements</h2>
