@@ -3,7 +3,6 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>LinkedIn Job Scraper</title>
   </head>
   <body>
     <h1>LinkedIn Job Scraper</h1>
@@ -25,9 +24,9 @@
     <p>To use this script, follow these steps:</p>
     <ol>
       <li>Clone this repository to your local machine.</li>
-      <li>Modify the <code>config.txt</code> file with your LinkedIn login credentials.</li>
-      <li>Modify the <code>job_filter</code> variable in the <code>job_scraper.py</code> file with your desired job filters.</li>
-      <li>Run the script using the command <code>python job_scraper.py</code>.</li>
+      <li>Modify the <code>usercredentials.txt</code> file with your LinkedIn login credentials.</li>
+      <li>Modify the <code>job_filter</code> variable in the <code>JobScraper.py</code> file with your desired job filters.</li>
+      <li>Run the script using the command <code>python JobScraper.py</code>.</li>
     </ol>
     <p>After running the script, the job listings data will be saved in a file called <code>job_listings.csv</code>.</p>
     <h2>Contributions</h2>
