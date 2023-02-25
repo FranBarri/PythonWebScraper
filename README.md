@@ -24,7 +24,7 @@
     <p>To use this script, follow these steps:</p>
     <ol>
       <li>Clone this repository to your local machine.</li>
-      <li>Modify the <code>usercredentials.txt</code> file with your LinkedIn login credentials.</li>
+      <li>Modify the link the line 49 with your LinkedIn login credentials.</li>
       <li>Modify the <code>job_filter</code> variable in the <code>JobScraper.py</code> file with your desired job filters.</li>
       <li>Run the script using the command <code>python JobScraper.py</code>.</li>
     </ol>
